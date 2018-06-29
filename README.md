@@ -2,4 +2,8 @@
 
 Dumps the SpaceX API into a readable format, requires Python 3.x!
 
-#ToDo
+# ToDo
+
+--* GUI
+--* Options
+--* ???
